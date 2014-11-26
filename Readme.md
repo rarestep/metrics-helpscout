@@ -31,6 +31,9 @@ Total active:
 Total pending:
 - `helpscout pending tickets` - the total number of pending tickets in teh mailboxes
 
+Today:
+- `helpscout tickets closed today` - the total number of tickets closed today
+
 Weekly:
 - `helpscout tickets modified avg` - the trailing average of tickets modified in the last 7 days
 - `helpscout tickets modified last week` - tickets modified in the last 7 days
