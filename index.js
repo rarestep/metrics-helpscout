@@ -104,7 +104,7 @@ function oldestBreakdown (metrics, convos) {
   var breakdown = {};
 
   var oldestTime = null;
-  var oldestOwner = null;
+  var oldestOwner = '';
 
   var active = convos.filter(function (convo) { return convo.status === 'active'; });
 
